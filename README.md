@@ -5,7 +5,7 @@
 # License    : MIT
 # Copyright  : Link-a21 (2024-2026)
 # Github     :https://github.com/link-a21
-# Contact    : link-anony21
+# Contact    : https://m.me/link-a21
 # Description: PyPhisher is a phishing tool in python
 # Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
 # 2st Commit : 29/04/2024
